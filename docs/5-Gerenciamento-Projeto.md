@@ -1,50 +1,50 @@
-# Gerenciamento de Projeto
+# Metodologia
 
-> Descreva aqui a metodologia de trabalho do grupo para atacar o
-> problema.
+    A metodologia compreende o modo como a equipe preparou o código e a organização do time para executar o projeto.
+    
+## Relações de ambiente de trabalho
 
-## Divisão de Papéis
+    Os ambientes de trabalho foram divididos, entre algumas plataformas que auxiliarão na produção do projeto, mostradas abaixo.
+    
+    https://docs.google.com/document/d/1wjq02YRhq8sHIsqOjC-FModjLhYcmOzy04W92fDDFWA/edit#     (ver seção 3.1)
 
-> Apresente a divisão de papéis entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+## Gerenciamento do projeto
 
-## Processo
+	Para conclusão do projeto a divisão da equipe foi feita segundo o método Scrum, conforme listado abaixo:
+### Scrum Master
+    Katryn Ribeiro
 
-> Coloque  informações sobre detalhes da implementação do Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+### Product Owner
+    Giovanna Dantas
 
-## Ferramentas
+### Development team
+    Atos dos Santos
+    Lucas Henrique
+    Rafael Nascimento
 
-As ferramentas empregadas no projeto são:
+### Design team
+    Gabriel Martins
+    Luiz Henrique
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de diagramação
 
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
+Para organização e distribuição do projeto a equipe estruturou da seguinte forma:
 
-> Liste quais ferramentas foram empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [![Slack](images/slack.jpg)](https://slack.com/)
-> - [![Trello](images/trello.png)](https://trello.com/)
-> 
-> - [![Microsof Project](images/project.png)](https://products.office.com/pt-br/project/project-and-portfolio-management-software)
-> - [![Redbooth](images/redbooth.png)](https://redbooth.com/)
+   ###   Recursos: 
+      Esta lista mantém template de tarefas recorrentes com as configurações padronizadas que todos devem seguir. O objetivo é permitir a cópia destes templates para agilizar a criação de novos cartões.
+
+   ###   Backlog:  
+    recebe  as  tarefas  a  serem  trabalhadas  e  representa  o  Product  Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista.
+
+   ###   To  Do:  
+    Esta  lista  representa  o  Sprint  Backlog.  Este  é  o  Sprint  atual  que  estamos trabalhando.
+
+   ###   Doing: 
+    Quando uma tarefa tiver sido iniciada, ela é movida para cá.
+
+   ###   Test: 
+    Checagem de Qualidade. Quando as tarefas são concluídas, eles são movidas para  o  “CQ”.  No  final  da  semana,  eu  revejo  essa  lista  para  garantir  que  tudo  saiu perfeito. Caso seja necessário alguma mudança a tarefa volta para a estrutura “Doing”
+
+   ###   Done: 
+    nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade  e  estão  prontos  para  ser  entregues  ao  usuário.  Não  há  mais  edições  ou revisões necessárias, ele está agendado e pronto para a ação.
+
+O Desenvolvimento do quadro Kanban do grupo foi feito no github na aba de projetos, acessível pelo link: https://github.com/Gxavier7/Doar-Alimentos/projects/1 e no estado atual está da seguinte forma:
