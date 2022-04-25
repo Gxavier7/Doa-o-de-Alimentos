@@ -13,10 +13,9 @@ https://docs.google.com/document/d/1wjq02YRhq8sHIsqOjC-FModjLhYcmOzy04W92fDDFWA/
 ## Wireframes
   Conforme  fluxo  de  telas  do  projeto,  apresentado  no  item  anterior,  as  telas  do  sistema  são apresentadas em detalhes nos itens que se seguem. O site será    composto de apenas uma página com:
 
-### Cabeçalho - 
-    local  onde  são  dispostos  elementos  fixos  de  identidade  (logo)  e navegação principal do site (menu da aplicação);
+### Cabeçalho 
+   local  onde  são  dispostos  elementos  fixos  de  identidade  (logo)  e navegação principal do site (menu da aplicação);
 
-### Conteúdo - 
-    apresenta o conteúdo da parte em questão
-
-https://docs.google.com/document/d/1wjq02YRhq8sHIsqOjC-FModjLhYcmOzy04W92fDDFWA/edit#     (ver seção 4.2)
+### Conteúdo 
+   apresenta o conteúdo da parte em questão  
+   https://docs.google.com/document/d/1wjq02YRhq8sHIsqOjC-FModjLhYcmOzy04W92fDDFWA/edit#     (ver seção 4.2)
