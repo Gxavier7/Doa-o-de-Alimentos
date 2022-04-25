@@ -1,47 +1,50 @@
-# Gestão de Configuração
+# Metodologia
 
-> Nesta parte do documento, você deve apresentar como foi realizada a
-> gestão de configuração do projeto. Isto é, como a ferramenta de
-> controle de versão foi configurada, bem como a hospedagem da
-> plataforma.
+    A metodologia compreende o modo como a equipe preparou o código e a organização do time para executar o projeto.
+    
+## Relações de ambiente de trabalho
 
-## Controle de Versão
+    Os ambientes de trabalho foram divididos, entre algumas plataformas que auxiliarão na produção do projeto, mostradas abaixo.
+    
+    https://docs.google.com/document/d/1wjq02YRhq8sHIsqOjC-FModjLhYcmOzy04W92fDDFWA/edit#     (ver seção 3.1)
 
-A ferramenta de controle de versão adotada no projeto foi o
-[Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-foi utilizado para hospedagem do repositório `upstream`.
+## Gerenciamento do projeto
 
-O projeto segue a seguinte convenção para o nome de branchs:
+	Para conclusão do projeto a divisão da equipe foi feita segundo o método Scrum, conforme listado abaixo:
+### Scrum Master
+    Katryn Ribeiro
 
-- `master`: versão estável já testada do software
-- `unstable`: versão já testada do software, porém instável
-- `testing`: versão em testes do software
-- `dev`: versão de desenvolvimento do software
+### Product Owner
+    Giovanna Dantas
 
-Quanto à gerência de issues, o projeto adota a seguinte convenção para
-etiquetas:
+### Development team
+    Atos dos Santos
+    Lucas Henrique
+    Rafael Nascimento
 
-- `bugfix`: uma funcionalidade encontra-se com problemas
-- `enhancement`: uma funcionalidade precisa ser melhorada
-- `feature`: uma nova funcionalidade precisa ser introduzida
+### Design team
+    Gabriel Martins
+    Luiz Henrique
 
-> Discuta como a configuração do projeto foi feita na ferramenta de
-> versionamento escolhida. Exponha como a gerência de tags, merges,
-> commits e branchs é realizada. Discuta como a gerência de issues foi
-> realizada.
->
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
 
-## Hospedagem
+Para organização e distribuição do projeto a equipe estruturou da seguinte forma:
 
-> Explique como a hospedagem e o lançamento da plataforma foi feita.
->
-> **Links Úteis**:
->
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Crie seu Site com o
->   HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
-> - [GoDady](https://br.godaddy.com/how-to)
-> - [GitHub Pages](https://pages.github.com/)
+   ###   Recursos: 
+      Esta lista mantém template de tarefas recorrentes com as configurações padronizadas que todos devem seguir. O objetivo é permitir a cópia destes templates para agilizar a criação de novos cartões.
+
+   ###   Backlog:  
+    recebe  as  tarefas  a  serem  trabalhadas  e  representa  o  Product  Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista.
+
+   ###   To  Do:  
+    Esta  lista  representa  o  Sprint  Backlog.  Este  é  o  Sprint  atual  que  estamos trabalhando.
+
+   ###   Doing: 
+    Quando uma tarefa tiver sido iniciada, ela é movida para cá.
+
+   ###   Test: 
+    Checagem de Qualidade. Quando as tarefas são concluídas, eles são movidas para  o  “CQ”.  No  final  da  semana,  eu  revejo  essa  lista  para  garantir  que  tudo  saiu perfeito. Caso seja necessário alguma mudança a tarefa volta para a estrutura “Doing”
+
+   ###   Done: 
+    nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade  e  estão  prontos  para  ser  entregues  ao  usuário.  Não  há  mais  edições  ou revisões necessárias, ele está agendado e pronto para a ação.
+
+O Desenvolvimento do quadro Kanban do grupo foi feito no github na aba de projetos, acessível pelo link: https://github.com/Gxavier7/Doar-Alimentos/projects/1 e no estado atual está da seguinte forma:
