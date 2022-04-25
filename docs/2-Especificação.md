@@ -11,7 +11,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 https://docs.google.com/document/d/1wjq02YRhq8sHIsqOjC-FModjLhYcmOzy04W92fDDFWA/edit#     (ver seção 2.2)
 
 ## Requisitos
-    O alvo do projeto é definido por meio dos Requisitos Funcionais (indicam as funcionalidades do sistema) e pelos Requisitos não Funcionais (Indicam a qualidade que o projeto deve ter)
+   O alvo do projeto é definido por meio dos Requisitos Funcionais (indicam as funcionalidades do sistema) e pelos Requisitos não Funcionais (Indicam a qualidade que o projeto deve ter)
 
 ### Requisitos Funcionais
 
