@@ -1,61 +1,19 @@
-# Introdução
+1 - Introdução
+    A insegurança alimentar pode ser definida como, uma incerteza, quanto ao acesso a alimentos no futuro e/ou uma ruptura na alimentação ocasionado pela falta de alimentos.
+     Segundo pesquisa realizada pelo IBGE (Instituto Brasileiro de Geografia e Estatística) em 2017/2018 35,2% dos domicílios brasileiros possuem algum nível de insegurança alimentar ( leve, moderada ou grave ).
+     A sociedade está cada vez mais repleta de pessoas conscientes do seu papel quanto à cidadania, todavia ainda é falho o entendimento de por onde iniciar e como ajudar aqueles que passam por necessidade. O trabalho voluntário é um membro importante e um ótimo exemplo de como auxiliar na distribuição de alimentos e demais produtos.
+1.1 - Problemas
+    Em vista dos fatos acima, urge a necessidade de canais de divulgação para auxiliar a descoberta de locais de carência alimentar e de ONGs, junto a uma instrução de como efetuar as doações e o que se deve levar.
+1.2 - Objetivos
+	1.2.1 - Objetivos Gerais
+     Como finalidade do trabalho, esperamos criar um portal onde é possível compreender os locais de distribuição de alimentos (ONGs) em São Paulo, junto a informações sobre as Ongs como endereço, contato e horário de funcionamento, junto a um espaço para indicar sugestões de lugares ou pessoas que necessitam de ajuda.
+1.2.2 - Objetivos Específicos
 
-## Problema
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Apresentar um mapa para descobrir locais para levar as doações.
+Apresentar informações sobre os locais de doação.
+Quadro de sugestões de famílias ou locais que demandam necessidade.
+1.3 - Justificativa
+    No contexto de elevados níveis de carência econômica e cultural, o site propõe facilitar o encontro de iniciativas e pessoas dispostas a contribuir com as ONGs, especializadas em doações. Tal realidade tem sido a principal justificativa para a referida criação, incentivando e promovendo ações que efetivamente venham implementar uma dinâmica de elevação nos níveis de qualidade de vida da população da região.
 
-## Objetivos
-
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
-
-## Justificativa
-
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
-
-## Público-Alvo
-
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
- 
+1.4 - Público alvo
+    O nosso público alvo são pessoas maiores de idade, sejam elas homens ou mulheres, com desejo de ajudar pessoas necessitadas. Delimitando a zona geográfica do projeto para a região de São Paulo, SP
