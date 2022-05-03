@@ -68,7 +68,7 @@ nav .logo :hover {
 nav {
   height: var(--header-height);
   display: flex;
-  align-itens:center;
+  align-items: center;
   justify-content: space-between;
   width: 100%;
   font-size:large;
