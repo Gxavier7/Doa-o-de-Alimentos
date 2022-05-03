@@ -83,4 +83,6 @@ nav li a {
 
 nav ul li a:hover {
   color: var(--base-color);
+  transition: 0.2s;
+  font-size: large;
 }
