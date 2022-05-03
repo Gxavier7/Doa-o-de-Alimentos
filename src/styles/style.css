@@ -60,29 +60,44 @@ main {
   color: var(--base-color);
 }
 
+nav .logo :hover {
+  font-size: x-large;
+}
 /*----------   Navigacion   ----------*/
 
 nav {
   height: var(--header-height);
   display: flex;
+  align-itens:center;
   justify-content: space-between;
-  align-items: center;
   width: 100%;
+  font-size:large;
 }
 
-nav li {
-  display: inline;
+nav .menu ul li {
   list-style: none;
-}
-
-nav li a {
-  color: var(--title-color);
-  margin-left: 1rem;
-  margin-right: 1rem;
+  text-align: center;
+  display: inline;
 }
 
 nav ul li a:hover {
   color: var(--base-color);
   transition: 0.2s;
-  font-size: large;
+  font-size: x-large;
+}
+
+nav ul li a::after {
+  content: '';
+  width: 0%;
+  height: 5px;
+  background: var(--base-color);
+  position: absolute;
+  left: 0;
+  bottom: -1.7rem;
+  transition: width 0.2s;
+}
+
+nav ul li a:hover::after {
+  width: 100%;
+  bottom: -1.55rem;
 }
