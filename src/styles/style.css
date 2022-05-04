@@ -16,11 +16,17 @@ img {
 
 /*----------   Variables   ----------*/
 :root {
+  /*  Color  */
   --header-height: 4.5rem;
   --hue: 30;
   --body-color: hsl(0 0% 98%);
   --title-color: hsl(var(--hue) 41% 10%);
   --base-color: hsl(var(--hue) 36% 57%);
+  --text-color: hsl(0 0% 46%);
+  /*  Font  */
+  --logo-font: 600 1.5rem 'SemiBold', sans-serif;
+  --nav-font: 500 1rem 'Merriweather', sans-serif;
+  --body-font: 400 1rem 'Josefin Sans', sans-serif;
 }
 
 /*----------   Layout   ----------*/
@@ -52,8 +58,8 @@ main {
 /*----------   Logo   ----------*/
 
 .logo {
-  font: 700 1.31rem 'Poppins', sans-serif;
-  color: var(--title-color);
+  font: var(--logo-font);
+  color: var(--body-color);
 }
 
 .logo span {
@@ -61,8 +67,15 @@ main {
 }
 
 nav .logo :hover {
-  font-size: x-large;
+  font-size: 2rem;
+  transition: 0.3s;
 }
+
+.title {
+  font: var(--nav-font);
+  color: gray;
+}
+
 /*----------   Navigacion   ----------*/
 
 nav {
@@ -71,7 +84,7 @@ nav {
   align-items: center;
   justify-content: space-between;
   width: 100%;
-  font-size:large;
+  font-size: large;
 }
 
 nav .menu ul li {
@@ -101,3 +114,50 @@ nav ul li a:hover::after {
   width: 100%;
   bottom: -1.55rem;
 }
+nav {
+  height: var(--header-height);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  font-size: large;
+}
+
+nav .menu ul li {
+  list-style: none;
+  text-align: center;
+  display: inline;
+}
+
+nav ul li a {
+  color: var(--text-color);
+  transition: color 0.2s;
+  position: relative;
+  margin: 0 1rem 0 1rem;
+}
+
+nav ul li a:hover {
+  color: var(--base-color);
+  transition: 0.2s;
+  font-size: x-large;
+}
+
+nav ul li a::after {
+  content: '';
+  width: 0%;
+  height: 5px;
+  background: var(--base-color);
+  position: absolute;
+  left: 0;
+  bottom: -1.55rem;
+  transition: width 0.2s;
+}
+
+nav ul li a:hover::after {
+  width: 100%;
+  bottom: -1.35rem;
+}
+
+/*----------   About   ----------*/
+
+
