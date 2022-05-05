@@ -11,12 +11,12 @@ https://docs.google.com/document/d/1wjq02YRhq8sHIsqOjC-FModjLhYcmOzy04W92fDDFWA/
 ### REQUISITOS
    O alvo do projeto é definido por meio dos Requisitos Funcionais (indicam as funcionalidades do sistema) e pelos Requisitos não Funcionais (Indicam a qualidade que o projeto deve ter)
 
-#### REQUISITOS FUNCIONAIS
+* REQUISITOS FUNCIONAIS
 
 https://docs.google.com/document/d/1ynxkpoybFS2x1ijKSaJGWLoOPmJfceKG/     (ver seção 2.4.1)
 
 
-#### REQUISITOS NÃO FUNCIONAIS 
+* REQUISITOS NÃO FUNCIONAIS 
 
 https://docs.google.com/document/d/1ynxkpoybFS2x1ijKSaJGWLoOPmJfceKG/     (ver seção 2.4.2)
 
