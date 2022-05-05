@@ -1,21 +1,23 @@
-# Informações do Projeto
+### INFORMAÇÕES DO PROJETO 
 `TÍTULO DO PROJETO`  
 
-Trabalho Interdisciplinar - Aplicacões Web
+Desenvolvimento de aplicação web Front-End – Doação de alimentos
 
 `CURSO`
+Análise e Desenvolvimento de Sistemas - PUC MINAS
 
 `SEMESTRE`
+1º
 
-## Participantes
+### PARTICIPANTES
 
-Os membros do grupo são: 
-- Fulano da Silva
-- Ciclano Albuquerque
+Atos dos Santos Pereira </P>
+Gabriel Martins Xavier</P>
+Giovanna Dantas Almeida da Silva </P>
+Katryn Ribeiro de Jesus Oliveira</P>
+Rafael Nascimento Gonçalves </P>
 
-> Inclua a lista dos membros da equipe com seus nomes completos.
-
-# Estrutura do Documento
+### ESTRUTURA DO DOCUMENTO
 
 1. [Contexto](1-Contexto.md)
 2. [Especificações do Projeto](2-Especificação.md)
