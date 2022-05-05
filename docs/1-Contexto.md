@@ -1,29 +1,30 @@
 ## Introdução
 
-   A insegurança alimentar pode ser definida como, uma incerteza, quanto ao acesso a alimentos no futuro e/ou uma ruptura na alimentação ocasionado pela falta de alimentos.
-    Segundo pesquisa realizada pelo IBGE (Instituto Brasileiro de Geografia e Estatística) em 2017/2018 35,2% dos domicílios brasileiros possuem algum nível de insegurança alimentar ( leve, moderada ou grave ).
-    A sociedade está cada vez mais repleta de pessoas conscientes do seu papel quanto à cidadania, todavia ainda é falho o entendimento de por onde iniciar e como ajudar aqueles que passam por necessidade. O trabalho voluntário é um membro importante e um ótimo exemplo de como auxiliar na distribuição de alimentos e demais produtos.
+  Com a redução da atividade reguladora do Estado, que ao longo de várias décadas absorvia grande parte das responsabilidades pela provisão de bens e serviços públicos da nação, o Terceiro Setor emergiu no Brasil como uma alternativa aos problemas sociais, impulsionado pelo crescimento das desigualdades sociais, inseridas num contexto de exclusão social, e da pressão dos cidadãos por soluções em diferentes realidades para os mais diversos problemas (TACHIZAWA, 2010).
+Atualmente, as organizações sem fins lucrativos estão em pleno crescimento ao redor do mundo, indicando um maior compromisso da sociedade para com a cidadania, diferentemente de épocas passadas, sendo seres humanos mais conscientes do seu papel como cidadãos globais que cooperam para a eficiência dessas organizações. 
+O trabalhador voluntário é um membro importante do terceiro setor, e que por esse modo, tem a necessidade de compreender melhor a sociedade onde está inserido, juntamente com as evoluções ocorridas neste seguimento. Nos dias atuais, o voluntariado assume novos papéis diante da comunidade, compondo as organizações para além do compromisso individual de caridade, contribuindo para eficiência das mesmas, sendo muitas vezes, o fator que alavanca as atividades desenvolvidas por estas instituições.
      
 ## Problemas
 
-   Em vista dos fatos acima, urge a necessidade de canais de divulgação para auxiliar a descoberta de locais de carência alimentar e de ONGs, junto a uma instrução de como efetuar as doações e o que se deve levar.
+   Conforme exposto, o projeto tem como proposta solucionar o problema da falta de comunicação entre voluntários que buscam ajudar famílias carentes com doações de alimentos e essas famílias ou comunidades.
     
 ## Objetivos
 
    Objetivos Gerais
 	
-   Como finalidade do trabalho, esperamos criar um portal onde é possível compreender os locais de distribuição de alimentos (ONGs) em São Paulo, junto a informações sobre as Ongs como endereço, contato e horário de funcionamento, junto a um espaço para indicar sugestões de lugares ou pessoas que necessitam de ajuda.
+   O objetivo geral deste trabalho é a criação de um portal de notícias que apresente ferramentas de fácil uso e que permita o acesso de restaurantes dispostos a doar alimentos não-utilizados à ONGs que trabalham com famílias necessitadas.
      
 ## Objetivos Específicos
 
-   Apresentar um mapa para descobrir locais para levar as doações.
-Apresentar informações sobre os locais de doação.
-Quadro de sugestões de famílias ou locais que demandam necessidade.
+●	Fornecer funcionalidades que permitam a interação entre restaurantes e ONGs especializadas em doações. </p>
+●	Integrar o site a centrais de notícias especializadas no ramo voluntário. </p>
+●	Permitir o voluntariado individual a ONGs da grande São Paulo. </p>
+
 
 ## Justificativa
 
-   No contexto de elevados níveis de carência econômica e cultural, o site propõe facilitar o encontro de iniciativas e pessoas dispostas a contribuir com as ONGs, especializadas em doações. Tal realidade tem sido a principal justificativa para a referida criação, incentivando e promovendo ações que efetivamente venham implementar uma dinâmica de elevação nos níveis de qualidade de vida da população da região.
+   No contexto de elevados níveis de carência econômica e cultural, o site propõe facilitar o encontro de iniciativas privadas dispostos a contribuir com as ONGs especializadas em doações. Tal realidade tem sido a principal justificativa para a referida criação, incentivando e promovendo ações que efetivamente venham implementar uma dinâmica de elevação nos níveis de qualidade de vida da população da região.
 
 ## Público alvo
 
-   O nosso público alvo são pessoas maiores de idade, sejam elas homens ou mulheres, com desejo de ajudar pessoas necessitadas. Delimitando a zona geográfica do projeto para a região de São Paulo, SP
+   O público alvo do site é formado por donos de restaurantes, profissionais liberais na área de gastronomia e voluntários autônomos que buscam por trabalhos voluntários relacionados a sua área, mas que não sabem onde procurar e encontrar essas famílias necessitadas. A zona geográfica delimitada para o projeto é a região metropolitana de São Paulo. 
