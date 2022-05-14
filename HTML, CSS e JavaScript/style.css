@@ -202,6 +202,29 @@
     color: black;
   }
   
+  #missao {
+  font-size:  2rem;
+  text-align: center;
+}
+em strong {
+  color: rgb(189,137,89)
+}
+.itens {
+  font-style:  italic;
+
+}
+.participar{
+  background: #FFFFFF;
+  padding: 20px;
+  font-size:20px
+}
+
+ul{
+  display:  inline-block;
+  vertical-align: top;
+  widht: 20%;
+  margin-right: 15%;  }
+  
   /*----------   Noticias   ----------*/
   
   #news blockquote img {
