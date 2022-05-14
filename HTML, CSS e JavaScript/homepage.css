@@ -181,10 +181,18 @@ nav ul li a:hover::after {
 /*----------   About   ----------*/
 
 h1 {
-  font: var(--logo-font);
-  margin-bottom: 1rem;
-  font-size: 3rem;
-  color: black;
+    font: var(--logo-font);
+    margin-bottom: 1rem;
+    font-size: 3rem;
+    color: black;
+  }
+  
+  #missao {
+  font-size:  2rem;
+  text-align: center;
+}
+em strong {
+  color: rgb(189,137,89)
 }
 
 /*----------   Noticias   ----------*/
