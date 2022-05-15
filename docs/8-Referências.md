@@ -1,3 +1,5 @@
 ### REFERÊNCIAS
 
-MEDEIROS, Robson A. de; SILVA, Eduardo P.; ARAÚJO, Jailton M. de. **A (in)segurança alimentar e nutricional no Brasil e o desenvolvimento humano. Prima Facie intenational Journal, v. 6. n. 11. 2007.** Disponível em: <http://periodicos.ufpb.br/ojs/index.php/primafacie/article/view/4351/3283>. Acesso em: 15 mar. 2022.
+Em 2020, até 811 milhões de pessoas passaram fome. Parece contraditório que isso aconteça ao mesmo tempo em que se desperdiçam 931 milhões de toneladas de alimentos no mundo, o equivalente a 321 mil Maracanãs.** Disponível em: <https://www.unep.org/pt-br/noticias-e-reportagens/comunicado-de-imprensa/pnuma-e-fao-convocam-movimento-no-brasil-para-reduzir#:~:text=“Em%202020%2C%20até%20811%20milhões,equivalente%20a%20321%20mil%20Maracanãs.>. Acesso em: 15 mar. 2022.
+
+
