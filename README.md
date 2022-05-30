@@ -4,41 +4,26 @@ Este é um repositório _template_ que tem como principal objetivo
 fornecer uma estrutura inicial para projetos da disciplina _Trabalho
 Interdisciplina - Aplicações Web_ da PUC Minas.
 
-Aqui você encontrará orientações de como estruturar o projeto e
-desenvolver seus respectivos artefatos.
-
 # Estrutura de Diretórios
 
 Este _template_ adota a seguinte estrutura de diretórios:
 
 - `docs`
   - `images`
-- `src`
+- `HTML, CSS e JavaScript`
   - `assets`
   - `scripts`
   - `styles`
   - `vendor`
 
-> O grupo é livre para alterar a estrutura proposta. No entanto, nesse
-> caso, o arquivo `README.md` deve ser devidamente modificado para
-> detalhar a nova estrutura e onde cada um dos artefatos produzidos
-> estão localizados.
-
 ## docs
 
 Esta pasta arquiva a documentação dos projetos, sendo que o arquivo
-[`Projeto.md`](docs/Projeto.md) deve ser utilizado como documento principal, que concentra
+[`Projeto.md`](docs/Projeto.md) concentra
 toda a informação do projeto em questão.
 
-Este _template_ fornece detalhes de todos os itens  que o arquivo
-`Projeto.MD` deve conter, bem como orientações gerais de como os itens
-podem ser desenvolvidos.
-
-Na pasta `docs`, há uma subpasta `images` que deve arquivar todas as
-imagens utilizadas para a elaboração do documento [`Projeto.md`](docs/Projeto.md).
-
-A presentação do projeto, deve ser entregue à parte em formato `pdf` e
-podem devem ser colocada no diretório `docs`.
+Na pasta `docs`, há uma subpasta `images` que arquiva todas as
+imagens utilizadas para a elaboração do documento.
 
 ## src
 
