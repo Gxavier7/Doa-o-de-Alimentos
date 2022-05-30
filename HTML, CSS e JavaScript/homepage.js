@@ -1,5 +1,5 @@
 const swiper = new Swiper('.swiper', {
-  slidesPerView: 2,
+  slidesPerView: 1,
   pagination: {
     el: '.swiper-pagination'
   },
@@ -8,6 +8,10 @@ const swiper = new Swiper('.swiper', {
   breakpoints: {
     720: {
       slidesPerView: 2,
+      setWrapperSize: true
+    },
+    1200: {
+      slidesPerView: 3,
       setWrapperSize: true
     }
   }
