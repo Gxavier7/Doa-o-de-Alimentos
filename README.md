@@ -11,7 +11,7 @@ Este _template_ adota a seguinte estrutura de diretórios:
 - `docs`
   - `images`
 - `HTML, CSS e JavaScript`
-- 
+
 ## docs
 
 Esta pasta arquiva a documentação dos projetos, sendo que o arquivo
