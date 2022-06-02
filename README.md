@@ -9,22 +9,23 @@ Interdisciplina - Aplicações Web_ da PUC Minas.
 Este _template_ adota a seguinte estrutura de diretórios:
 
 - `docs`
-  - `images`
-- `HTML, CSS e JavaScript`
 
+- `HTML, CSS e JavaScript`
+  - `images`
+ 
 ## docs
 
 Esta pasta arquiva a documentação dos projetos, sendo que o arquivo
 [`Projeto.md`](docs/Projeto.md) concentra toda a informação do projeto em questão.
-
-Na pasta `docs`, há uma subpasta `images` que arquiva todas as
-imagens utilizadas para a elaboração do documento.
 
 ## HTML, CSS e JavaScript
 
 Este diretório armazena o código fonte do projeto e adota uma hierarquia
 básica de projetos Web simples, que utilizam as tecnologias HTML, CSS e
 JavaScript:
+
+Também possui uma Sub-pasta qie contem as imagens utilizadas no Web-site
+
 
 # Orientações Gerais Sobre o Projeto
 
