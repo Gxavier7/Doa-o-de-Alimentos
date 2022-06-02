@@ -11,7 +11,6 @@ Análise e Desenvolvimento de Sistemas - PUC MINAS
 
 ### PARTICIPANTES
 
-Atos dos Santos Pereira </P>
 Gabriel Martins Xavier</P>
 Giovanna Dantas Almeida da Silva </P>
 Katryn Ribeiro de Jesus Oliveira</P>
