@@ -1,0 +1,32 @@
+#map iframe {
+    width: 98%;
+    height: 1900px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+#mapa h3, p{
+    position: relative;
+    margin-left: 12px;
+}
+#mapa h3{
+    font-family: 'Merriweather', sans-serif;
+    margin-bottom: 20px;
+    position: relative;
+    top: -16px;
+}
+#mapa p {
+    font-family: 'Josefin Sans', sans-serif;
+    position: relative;
+    bottom: 14px;
+    text-align: left;
+}
+footer, footer .logo, footer .brand, footer .brand p {
+    background-color: antiquewhite;
+}
+.logo {
+    padding-left: 24px;
+}
+footer p {
+    padding-left: 14px;
+}

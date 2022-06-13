@@ -1,0 +1,237 @@
+/*----------   Reset   ----------*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+}
+img {
+  width: 100%;
+  height: auto;
+}
+/*----------   Variables   ----------*/
+:root {
+  /*  Color  */
+  --header-height: 4.5rem;
+  --hue: 30;
+  --body-color: hsl(0 0% 98%);
+  --title-color: hsl(var(--hue) 41% 10%);
+  --base-color: hsl(var(--hue) 36% 57%);
+  --base-color-second: hsl(var(--hue) 65% 88%);
+  --text-color: hsl(0 0% 46%);
+  /*  Font  */
+  --logo-font: 600 'SemiBold', sans-serif;
+  --title-font: 500 'Merriweather', sans-serif;
+  --body-font: 400 'Josefin Sans', sans-serif;
+}
+
+/*----------   Layout   ----------*/
+.container {
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+}
+
+.high {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+#header {
+  box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.5);
+  border-bottom: 1px solid #e4e4e4;
+  margin-bottom: 2rem;
+  display: flex;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  background-color: var(--body-color);
+}
+
+main {
+  margin-top: var(--header-height);
+}
+
+.title {
+  font: var(--title-font);
+  font-size: 1.25rem;
+  color: gray;
+  -webkit-font-smoothing: auto;
+}
+
+.text {
+  padding-left: 1rem;
+  font: var(--body-font);
+  font-size: large;
+}
+
+.section {
+  padding: 5rem 0;
+}
+
+.divider {
+  height: 1px;
+  background: linear-gradient(
+    270deg,
+    hsla(var(--hue), 36%, 57%, 1),
+    hsla(var(--hue), 65%, 88%, 0.34)
+  );
+}
+
+/*----------   Logo   ----------*/
+
+.logo {
+  font: var(--logo-font);
+  font-size: 1.5rem;
+  color: var(--body-color);
+}
+
+.logo span {
+  color: var(--base-color);
+}
+
+nav .logo :hover,
+footer .logo :hover {
+  font-size: 2rem;
+  transition: 0.3s;
+}
+
+main {
+  margin-top: calc(var(--header-height) + 2rem);
+}
+
+/*----------   Navigacion   ----------*/
+nav {
+  height: var(--header-height);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  font-size: large;
+}
+nav .menu ul li {
+  list-style: none;
+  text-align: center;
+  display: inline;
+}
+nav ul li a {
+  color: var(--text-color);
+  transition: color 0.2s;
+  position: relative;
+  margin: 0 1rem 0 1rem;
+}
+nav ul li a:hover {
+  color: var(--base-color);
+  transition: 0.2s;
+  font-size: x-large;
+}
+nav ul li a::after {
+  content: '';
+  width: 0%;
+  height: 5px;
+  background: var(--base-color);
+  position: absolute;
+  left: 0;
+  bottom: -1.4rem;
+  transition: width 0.2s;
+}
+nav ul li a:hover::after {
+  width: 100%;
+  
+}
+
+/*----------   Home   ----------*/
+
+/*----------   About   ----------*/
+
+h1 {
+    font: var(--logo-font);
+    margin-bottom: 1rem;
+    font-size: 3rem;
+    color: black;
+  }
+  
+  #missao {
+  font-size:  2rem;
+  text-align: center;
+}
+em strong {
+  color: rgb(189,137,89)
+}
+
+/*----------   Noticias   ----------*/
+
+
+#news blockquote img {
+  width: 20rem;
+  height: 15rem;
+}
+
+#news blockquote {
+  display: block;
+  width: 24rem;
+  height: 30rem;
+  padding: 2rem;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.15);
+  border-radius: 0.25rem;
+}
+
+#news blockquote p {
+  position: relative;
+  text-indent: 1.875rem;
+  margin-bottom: 1.5rem;
+  color: var(--title-color);
+}
+
+#news blockquote p a {
+  font-size: larger;
+  color: cornflowerblue;
+}
+
+/*swiper*/
+.swiper-slide {
+  height: auto;
+  padding: 4rem 1rem;
+}
+
+.swiper-pagination-bullet {
+  width: 0.75rem;
+  height: 0.75rem;
+}
+
+.swiper-pagination-bullet-active {
+  background: var(--base-color);
+}
+
+/*----------   Footer   ----------*/
+
+footer {
+  background: var(--base-color-second);
+}
+
+footer .logo {
+  display: inline-block;
+  margin-bottom: 1.5rem;
+  font-size: x-large;
+}
+
+footer .brand p {
+  color: var(--title-color);
+  margin-bottom: 0.75rem;
+  font-size: larger;
+}
+
+footer .brand {
+  padding: 2rem;
+  position: relative;
+}
+
+/*----------   Logo IMG   ----------*/
+#logoimg {
+  width: 25px;
+  position: relative;
+  top: 5px;
+}
